@@ -1,13 +1,14 @@
 # 05_3d_shapes
 added 3d Shapes
+
+
+
         sphere: add a sphere to the edge matrix -
                  takes 4 arguemnts (cx, cy, cz, r)
          torus: add a torus to the edge matrix - 
                 takes 5 arguemnts (cx, cy, cz, r1, r2)
          box: add a rectangular prism to the edge matrix - 
               takes 6 arguemnts (x, y, z, width, height, depth)	    
-
-
 	 circle: add a circle to the edge matrix - 
 	         takes 4 arguments (cx, cy, cz, r)
 	 hermite: add a hermite curve to the edge matrix -
