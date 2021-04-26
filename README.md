@@ -3,7 +3,7 @@ added 3d Shapes
 
 
 
-        sphere: add a sphere to the edge matrix -
+         sphere: add a sphere to the edge matrix -
                  takes 4 arguemnts (cx, cy, cz, r)
          torus: add a torus to the edge matrix - 
                 takes 5 arguemnts (cx, cy, cz, r1, r2)
